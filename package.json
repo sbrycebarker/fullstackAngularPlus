@@ -1,0 +1,19 @@
+{
+  "name": "fullstackangularplus",
+  "version": "1.0.0",
+  "description": "Full Stack Angular+ Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sbrycebarker/fullstackAngularPlus.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sbrycebarker/fullstackAngularPlus/issues"
+  },
+  "homepage": "https://github.com/sbrycebarker/fullstackAngularPlus#readme"
+}

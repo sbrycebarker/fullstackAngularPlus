@@ -1,0 +1,13 @@
+header {
+  display: flex;
+  flex-direction: row;
+  margin: auto;
+}
+
+#top {
+  margin: auto;
+}
+
+nav {
+  margin: auto;
+}
