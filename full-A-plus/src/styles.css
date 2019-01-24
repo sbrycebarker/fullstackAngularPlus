@@ -1,14 +1,15 @@
 /* You can add global styles to this file, and also import other style files */
 * {
   font-family: sans-serif;
+  text-decoration: none;
 }
 
 html {
   height: 100%;
   width: 100%;
   margin: 0;
-  background-color: grey;
-  padding: 0
+  background-color: #3273C5;
+  padding: 0;
 }
 
 body {
